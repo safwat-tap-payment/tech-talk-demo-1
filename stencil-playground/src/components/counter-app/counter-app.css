@@ -1,0 +1,19 @@
+.container {
+  font-family: Arial;
+  text-align: center;
+  border: 1px solid #ddd;
+  padding: 20px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+.count {
+  font-size: 2rem;
+  margin: 10px 0;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
